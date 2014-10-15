@@ -1,0 +1,6 @@
+C:\Users\salman\Documents\Visual Studio 2013\Projects\lab 1 task 2\lab 1 task 2\bin\Debug\lab 1 task 2.exe.config
+C:\Users\salman\Documents\Visual Studio 2013\Projects\lab 1 task 2\lab 1 task 2\obj\Debug\lab 1 task 2.csprojResolveAssemblyReference.cache
+C:\Users\salman\Documents\Visual Studio 2013\Projects\lab 1 task 2\lab 1 task 2\bin\Debug\lab 1 task 2.exe
+C:\Users\salman\Documents\Visual Studio 2013\Projects\lab 1 task 2\lab 1 task 2\bin\Debug\lab 1 task 2.pdb
+C:\Users\salman\Documents\Visual Studio 2013\Projects\lab 1 task 2\lab 1 task 2\obj\Debug\lab 1 task 2.exe
+C:\Users\salman\Documents\Visual Studio 2013\Projects\lab 1 task 2\lab 1 task 2\obj\Debug\lab 1 task 2.pdb
