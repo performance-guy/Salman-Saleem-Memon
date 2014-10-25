@@ -1,4 +1,0 @@
-﻿Please copy this project into E drive. (or goto Line 136)
-And add .dll files from zedgraph.rar into your visual studio 2012 toolbox.
-Include namespace "using ZedGraph".
-Otherwise it will show error on printing.

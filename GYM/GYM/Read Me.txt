@@ -1,2 +1,0 @@
-Please copy this project into E drive
-Else it will not run.
