@@ -1,0 +1,184 @@
+c:\users\ebad\Downloads\visualstudio2010\GYM\GYM\bin\Debug\GYM.exe
+c:\users\ebad\Downloads\visualstudio2010\GYM\GYM\bin\Debug\GYM.pdb
+c:\users\ebad\Downloads\visualstudio2010\GYM\GYM\obj\Debug\GYM.Form1.resources
+c:\users\ebad\Downloads\visualstudio2010\GYM\GYM\obj\Debug\GYM.Properties.Resources.resources
+c:\users\ebad\Downloads\visualstudio2010\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.Cache
+c:\users\ebad\Downloads\visualstudio2010\GYM\GYM\obj\Debug\GYM.exe
+c:\users\ebad\Downloads\visualstudio2010\GYM\GYM\obj\Debug\GYM.pdb
+c:\users\ebad\Downloads\visualstudio2010\GYM\GYM\obj\Debug\GYM.Form2.resources
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\obj\Debug\GYM.Form3.resources
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\ZedGraph.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\ZedGraph.xml
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\obj\Debug\GYM.exe.licenses
+C:\Users\EBAD\Downloads\visualstudio2010\GYM\GYM\obj\Debug\GYM.csprojResolveAssemblyReference.cache
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\obj\Debug\GYM.exe
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\obj\Debug\GYM.pdb
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\GYM.exe
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\GYM.pdb
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\ZedGraph.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\ZedGraph.xml
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\obj\Debug\GYM.csprojResolveAssemblyReference.cache
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\obj\Debug\GYM.Form1.resources
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\obj\Debug\GYM.Form2.resources
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\obj\Debug\GYM.Form3.resources
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\obj\Debug\GYM.Properties.Resources.resources
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.Cache
+C:\Users\EBAD\Downloads\visualstudio2012\GYM\GYM\obj\Debug\GYM.exe.licenses
+E:\visualstudio2012\GYM\GYM\obj\Debug\GYM.exe
+E:\visualstudio2012\GYM\GYM\obj\Debug\GYM.pdb
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\obj\Debug\GYM.exe
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\obj\Debug\GYM.pdb
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\obj\Debug\GYM.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\obj\Debug\GYM.Form1.resources
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\obj\Debug\GYM.Form2.resources
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\obj\Debug\GYM.Form3.resources
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\obj\Debug\GYM.Properties.Resources.resources
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.Cache
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\obj\Debug\GYM.exe.licenses
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\GYM.exe
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\GYM.pdb
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\ZedGraph.xml
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\Visual Studio 2012\GYM\GYM\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\obj\Debug\GYM.exe
+D:\BSE-1B\Maz\GYM\GYM\obj\Debug\GYM.pdb
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\GYM.exe
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\GYM.pdb
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\ZedGraph.xml
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\de\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\es\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\fr\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\hu\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\it\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\ja\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\pt\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\ru\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\sk\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\sv\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\tr\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\BSE-1B\Maz\GYM\GYM\obj\Debug\GYM.csprojResolveAssemblyReference.cache
+D:\BSE-1B\Maz\GYM\GYM\obj\Debug\GYM.Form1.resources
+D:\BSE-1B\Maz\GYM\GYM\obj\Debug\GYM.Form2.resources
+D:\BSE-1B\Maz\GYM\GYM\obj\Debug\GYM.Form3.resources
+D:\BSE-1B\Maz\GYM\GYM\obj\Debug\GYM.Properties.Resources.resources
+D:\BSE-1B\Maz\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.Cache
+D:\BSE-1B\Maz\GYM\GYM\obj\Debug\GYM.exe.licenses
+D:\BSE-2B\OOP\Projects\GYM\GYM\obj\Debug\GYM.exe
+D:\BSE-2B\OOP\Projects\GYM\GYM\obj\Debug\GYM.pdb
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\GYM.exe
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\GYM.pdb
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\ZedGraph.xml
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\de\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\es\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\fr\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\hu\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\it\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\ja\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\pt\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\ru\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\sk\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\sv\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\tr\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\BSE-2B\OOP\Projects\GYM\GYM\obj\Debug\GYM.csprojResolveAssemblyReference.cache
+D:\BSE-2B\OOP\Projects\GYM\GYM\obj\Debug\GYM.Form1.resources
+D:\BSE-2B\OOP\Projects\GYM\GYM\obj\Debug\GYM.Form2.resources
+D:\BSE-2B\OOP\Projects\GYM\GYM\obj\Debug\GYM.Form3.resources
+D:\BSE-2B\OOP\Projects\GYM\GYM\obj\Debug\GYM.Properties.Resources.resources
+D:\BSE-2B\OOP\Projects\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.Cache
+D:\BSE-2B\OOP\Projects\GYM\GYM\obj\Debug\GYM.exe.licenses
+C:\Users\Sami\Desktop\GYM\GYM\obj\Debug\GYM.exe
+C:\Users\Sami\Desktop\GYM\GYM\obj\Debug\GYM.pdb
+C:\Users\Sami\Desktop\GYM\GYM\obj\Debug\GYM.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Desktop\GYM\GYM\obj\Debug\GYM.Form1.resources
+C:\Users\Sami\Desktop\GYM\GYM\obj\Debug\GYM.Form2.resources
+C:\Users\Sami\Desktop\GYM\GYM\obj\Debug\GYM.Form3.resources
+C:\Users\Sami\Desktop\GYM\GYM\obj\Debug\GYM.Properties.Resources.resources
+C:\Users\Sami\Desktop\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.Cache
+C:\Users\Sami\Desktop\GYM\GYM\obj\Debug\GYM.exe.licenses
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\GYM.exe
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\GYM.pdb
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\ZedGraph.xml
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Sami\Desktop\GYM\GYM\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\obj\Debug\GYM.exe
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\obj\Debug\GYM.pdb
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\GYM.exe
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\GYM.pdb
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\ZedGraph.xml
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\obj\Debug\GYM.csprojResolveAssemblyReference.cache
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\obj\Debug\GYM.Form1.resources
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\obj\Debug\GYM.Form2.resources
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\obj\Debug\GYM.Form3.resources
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\obj\Debug\GYM.Properties.Resources.resources
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.Cache
+C:\Users\Salman Saleem\Desktop\New_Project\GYM\GYM\obj\Debug\GYM.exe.licenses
